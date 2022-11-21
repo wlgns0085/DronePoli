@@ -1,0 +1,6 @@
+devel_space: /home/nvidia/DronePoli/devel
+install: false
+install_space: /home/nvidia/DronePoli/install
+profile: default
+source_space: /home/nvidia/DronePoli/src
+workspace: /home/nvidia/DronePoli
